@@ -65,13 +65,13 @@
   <dia:layer name="Arrière-plan" visible="true" active="true">
     <dia:object type="Flowchart - Box" version="0" id="O0">
       <dia:attribute name="obj_pos">
-        <dia:point val="1,1"/>
+        <dia:point val="5,2"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="0.95,0.95;10.2,9.4"/>
+        <dia:rectangle val="4.95,1.95;14.2,10.4"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="1,1"/>
+        <dia:point val="5,2"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="9.1500000000000021"/>
@@ -97,7 +97,7 @@
             <dia:real val="0.80000000000000004"/>
           </dia:attribute>
           <dia:attribute name="pos">
-            <dia:point val="5.575,5.37"/>
+            <dia:point val="9.575,6.37"/>
           </dia:attribute>
           <dia:attribute name="color">
             <dia:color val="#000000"/>
@@ -110,13 +110,13 @@
     </dia:object>
     <dia:object type="Flowchart - Box" version="0" id="O1">
       <dia:attribute name="obj_pos">
-        <dia:point val="7,12.55"/>
+        <dia:point val="19,1"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="6.95,12.5;18.05,23.05"/>
+        <dia:rectangle val="18.95,0.95;30.05,11.5"/>
       </dia:attribute>
       <dia:attribute name="elem_corner">
-        <dia:point val="7,12.55"/>
+        <dia:point val="19,1"/>
       </dia:attribute>
       <dia:attribute name="elem_width">
         <dia:real val="11"/>
@@ -142,7 +142,7 @@
             <dia:real val="0.80000000000000004"/>
           </dia:attribute>
           <dia:attribute name="pos">
-            <dia:point val="12.5,17.97"/>
+            <dia:point val="24.5,6.42"/>
           </dia:attribute>
           <dia:attribute name="color">
             <dia:color val="#000000"/>
